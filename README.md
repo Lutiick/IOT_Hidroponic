@@ -26,6 +26,10 @@ The `hardware` directory contains code and resources for the Arduino-based hardw
 
 Refer to the documentation within the `hardware` directory for specific hardware setup and usage instructions.
 
+## 4. Device
+
+The `device` directory contains mock for the Arduino-based hardware components used in the hydroponic system. Is is created for testing.
+
 ## Usage
 
 To utilize the Hydroponics Project, follow these general steps:

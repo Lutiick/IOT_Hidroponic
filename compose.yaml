@@ -22,11 +22,7 @@ services:
       PMA_PASSWORD: ${DB_PASS}
 
 
-  mqtt-server-transfer:
-    build: ./mqtt-server-transfer
-    depends_on:
-      - mysql
-    env_file: .env
+
 
   server1:
     build: ./server
@@ -37,6 +33,13 @@ services:
     env_file: .env
     ports:
       - ${APP_PORT}:${APP_PORT}
+
+  mqtt-server-transfer:
+    build: ./mqtt-server-transfer
+    depends_on:
+      - mysql
+      - server1
+    env_file: .env
 
   client:
     build: ./client
@@ -63,13 +66,15 @@ services:
       - DEVICE_ID=device1
     depends_on:
       - mosquitto
+      - server1
 
-  device2:
-    build: ./device
-    environment:
-      - DEVICE_ID=device2
+  controller:
+    build: ./controller
     depends_on:
       - mosquitto
+      - server1
+    volumes:
+      - ./controller/log.txt:/controller/log.txt
 
 
 volumes:

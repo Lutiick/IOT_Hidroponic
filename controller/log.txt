@@ -1,0 +1,71 @@
+Connected to MQTT broker with result code 0
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Nutrient motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Water motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Water motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor started
+Water motor stopped
+Water motor started
+Message received: esp32/controller b'{"id":10,"name":"Cabbage","description":"Cabbage is a green fruit.","nutrientVolume":10,"nutrientAdditionFrequency":1,"lastTimeNutrientAdded":"2024-06-16T12:44:44.000Z","isSelected":true,"createdAt":"2024-06-16T12:44:44.000Z"}'
+Water motor stopped
+Water motor started
+Water motor stopped

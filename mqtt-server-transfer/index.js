@@ -45,3 +45,18 @@ mqttClient.on("message", function (topic, message) {
 mqttClient.on("error", function (error) {
   console.error("Error:", error);
 });
+
+
+function fetchDataAndPublish() {
+  axios.get('http://server1:5000/plants/selected')
+    .then(response => {
+      const data = response.data;
+      mqttClient.publish('esp32/controller', JSON.stringify(data));
+      console.log("Data published to MQTT broker:", data);
+    })
+    .catch(error => {
+      console.error("Error fetching data from API:", error);
+    })
+}
+
+setInterval(fetchDataAndPublish, 5000);
