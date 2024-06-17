@@ -18,9 +18,9 @@ WATER_LEVEL = random.uniform(0.0, 100.0)
 
 # Функция публикации сообщений
 def publish_message(client):
-    humidity = HUMIDITY + random.randint(-2, 2)
-    temperature = TEMPERATURE + random.randint(-2, 2)
-    water_level = WATER_LEVEL + random.randint(-2, 2)
+    humidity = HUMIDITY + float(random.randint(-10, 10)) / 10
+    temperature = TEMPERATURE + float(random.randint(-10, 10)) / 10
+    water_level = WATER_LEVEL + float(random.randint(-10, 10)) / 10
 
     message = {
         "device_id": device_id,
