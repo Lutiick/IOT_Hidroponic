@@ -28,7 +28,11 @@ Refer to the documentation within the `hardware` directory for specific hardware
 
 ## 4. Device
 
-The `device` directory contains mock for the Arduino-based hardware components used in the hydroponic system. Is is created for testing.
+The `device` directory contains mock for the Arduino-based hardware sensors used in the hydroponic system. It is created for testing.
+
+## 4. Controller
+
+The `controller` directory contains mock for the Arduino-based hardware motor controller used in the hydroponic system. It is created for testing.
 
 ## Usage
 
