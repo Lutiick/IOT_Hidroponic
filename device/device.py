@@ -12,16 +12,16 @@ mqtt_broker = 'mosquitto'
 mqtt_port = 1883
 mqtt_publish_topic = "esp32/pub"
 
-HUMIDITY = float(random.uniform(30.0, 90.0))
-TEMPERATURE = float(random.uniform(20.0, 30.0))
-WATER_LEVEL = float(random.uniform(0.0, 100.0))
+HUMIDITY = random.uniform(30.0, 90.0)
+TEMPERATURE = random.uniform(20.0, 30.0)
+WATER_LEVEL = random.uniform(0.0, 100.0)
 
 # Функция публикации сообщений
 def publish_message(client):
-    HUMIDITY = HUMIDITY + float(random.randint(-5, 5)) / 10
-    TEMPERATURE = TEMPERATURE + float(random.randint(-5, 5)) / 10
-    WATER_LEVEL = WATER_LEVEL + float(random.randint(-5, 5)) / 10
-
+    global HUMIDITY, TEMPERATURE, WATER_LEVEL
+    HUMIDITY += random.uniform(-1.0, 1.0)
+    TEMPERATURE += random.uniform(-1.0, 1.0)
+    WATER_LEVEL += random.uniform(-1.0, 1.0)
     humidity = HUMIDITY
     temperature = TEMPERATURE
     water_level = WATER_LEVEL
